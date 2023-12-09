@@ -1,4 +1,11 @@
-# Turborepo Design System Starter
+# Rulebender's Almanac
+## v0.1.0
+---
+
+### Description
+---
+
+Punreliable Documentation; read it and weep.
 
 This guide explains how to use a React design system starter powered by:
 
